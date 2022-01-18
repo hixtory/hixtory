@@ -28,14 +28,14 @@
     "putil-isplainobject": "^1.1.2",
     "putil-merge": "^3.6.2",
     "putil-promisify": "^1.7.2",
-    "streamroller": "^2.2.4",
+    "streamroller": "^3.0.1",
     "wordwrap": "^1.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.4.0",
+    "eslint": "^8.7.0",
     "eslint-config-google": "^0.14.0",
-    "mocha": "^8.0.1",
+    "mocha": "^9.1.4",
     "nyc": "^15.1.0"
   },
   "peerDependencies": {},
